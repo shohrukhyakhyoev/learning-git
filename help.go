@@ -1,1 +1,3 @@
+package help
+
 func help() {}
